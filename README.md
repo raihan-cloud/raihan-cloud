@@ -22,7 +22,7 @@ I enjoy designing scalable systems, automating environments, and building modern
 - ⚙️ Skills: **Linux • Networking • Laravel • Docker • Backend Engineering**
 - 🌱 Learning: **Kubernetes, CI/CD, Big Data Workflow**
 - 📡 Focus: Creating reliable, automated, production-ready systems
-- 📫 Contact: **your-email@example.com**
+- 📫 Contact: **raihanmzuaffar2319@gmail.com**
 
 ---
 
