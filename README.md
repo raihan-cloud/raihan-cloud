@@ -83,7 +83,7 @@ I enjoy designing scalable systems, automating environments, and building modern
   <a href="https://instagram.com/USERNAME">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:raihanmzuaffar2319@gmail.com">
+  <a href="mailto:raihanmuzaffar2319@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
