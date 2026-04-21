@@ -1,97 +1,90 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0f24,100:1e2a78&text=Raihan%20Cloud%20Engineer&fontColor=7aa2f7&fontSize=45&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<h3 align="center">
-  Networking • DevOps Engineering • Data Engineering • Web Developer
-</h3>
-
-<!-- Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=22&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Networking+Enthusiast;Cloud+%7C+Linux+%7C+Docker+Practitioner;Laravel+%2F+PHP+Developer;Always+Learning+Something+New+🚀">
-</p>
-
----
-
-## 🌌 About Me
-I'm a passionate developer & engineer with a strong focus on **networking**, **DevOps**, **backend engineering**, and **data workflows**.  
-I enjoy designing scalable systems, automating environments, and building modern web applications.
-
-- 🔭 Exploring: **DevOps tooling, Cloud Infra, Container Orchestration**
-- ⚙️ Skills: **Linux • Networking • Laravel • Docker • Backend Engineering**
-- 🌱 Learning: **Kubernetes, CI/CD, Big Data Workflow**
-- 📡 Focus: Creating reliable, automated, production-ready systems
-- 📫 Contact: **raihanmzuaffar2319@gmail.com**
-
----
-
-## 🧩 Tech Stack
-
-### 🚀 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,go,python,bash" />
-</p>
-
-### ⚡ Frameworks / Runtimes  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,nextjs" />
-</p>
-
-### 🛠 DevOps & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,postgres,mysql,redis,terraform,cloudflare" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raihan-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-cloud&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:161b22,100:58a6ff&text=Raihan%20Muzaffar&desc=Cloud%20%26%20DevOps%20Engineer&fontColor=ffffff&fontSize=50&descSize=20&fontAlignY=40&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raihan-cloud&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=24&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Cloud+Solutions;DevOps+%26+Infrastructure+as+Code;Specializing+in+Linux+%26+Docker+Ecosystem;Fullstack+Laravel+%26+IoT+Developer;Automating+The+Future+🚀">
 </p>
 
----
-
-## 🧱 Featured Projects
-
-🔗 **Project 1 – Web App / Laravel / REST API**  
-⚙️ Fitur: Authentication, CRUD, API integrations  
-🧰 Tech: Laravel, MySQL, Docker
-
-🔗 **Project 2 – DevOps Automation Tooling**  
-🛠 Pipeline automation, deployments, environment provisioning  
-🧰 Tech: Bash, Docker, GitHub Actions, Linux
-
-🔗 **Project 3 – Data Engineering: ETL Pipeline**  
-📊 Extract → Transform → Load pipeline  
-🧰 Tech: Python, PostgreSQL, Cron, Linux
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,terraform,githubactions" />
   </a>
-  <a href="https://instagram.com/USERNAME">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+</p>
+
+---
+
+## ⚡ Overview
+Seorang **Systems Architect** & **DevOps Specialist** yang berfokus pada efisiensi infrastruktur dan otomatisasi workflow. Saya membangun jembatan antara kode aplikasi dan skalabilitas server.
+
+- 🛠️ **Current Focus**: Cloud-native architecture & Container orchestration.
+- 🚀 **Mission**: Mengurangi *deployment time* dan meningkatkan *system reliability*.
+- 🧪 **Researching**: CI/CD security best practices & Big Data pipelines.
+- 📧 **Get in touch**: `raihanmuzaffar2319@gmail.com`
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Core Languages & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,go,python,bash,laravel,nodejs" />
+</p>
+
+### ☁️ DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,terraform,ansible,githubactions,cloudflare" />
+</p>
+
+### 🗄️ Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raihan-cloud&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-cloud&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://streak-stats.demolab.com?user=raihan-cloud&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff" />
+</p>
+
+---
+
+## 🚀 Featured Engineering Projects
+
+| Project | Focus | Tech Stack |
+| :--- | :--- | :--- |
+| **🌐 Enterprise API Gateway** | Scalability & Auth | Laravel, Redis, Docker |
+| **⚙️ Auto-Scale Infrastructure** | IaC & Automation | Terraform, Ansible, AWS |
+| **📊 Smart IoT Dashboard** | Real-time Data | Node-RED, MQTT, InfluxDB |
+| **🔄 CI/CD Pipeline Core** | Automation | GitHub Actions, Shell, Docker |
+
+---
+
+## 📡 Connectivity
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:raihanmuzaffar2319@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e2a78&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=footer" />
 </p>
 
-<h3 align="center">⚡ Keep improving. Keep building. Keep shipping. ⚡</h3>
+<p align="center">
+  <i>"Code is poetry, but infrastructure is the stage where it performs."</i>
+</p>
