@@ -70,7 +70,7 @@ Seorang **Systems Architect** & **DevOps Specialist** yang berfokus pada efisien
 ## 📡 Connectivity
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohd raihan muzaffar">
+  <a href="https://www.linkedin.com/in/mohd-raihan-muzaffar-630b5a3a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:raihanmuzaffar2319@gmail.com">
